@@ -1,0 +1,3 @@
+# Claude Code instructions are local to each checkout (they pull in
+# workspace-level config like ../AGENTS.md); the reference copy lives in Obsidian.
+CLAUDE.md
