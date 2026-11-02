@@ -2,7 +2,7 @@
 
 # mtrac
 
-Open-source tooling from **mtrac**, the software consulting practice of Michael Tracy.
+Open-source tooling by Michael Tracy.
 
 <br clear="left">
 
